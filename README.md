@@ -1,4 +1,7 @@
 # 🏛🍇 Welcome 🍇🏛
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=800080)
+
 Hello there! My name is Lucas Breda, and I'm truly passionate about the world of coding, software, and hardware technologies.🌿
 
 Exploring the limitless possibilities that these realms offer is not just a hobby for me, but a genuine source of joy.🌿

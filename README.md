@@ -10,7 +10,7 @@ Join me on this exhilarating journey through the ever-evolving landscape of tech
 - Develop skills in the software area and hardware.
 
 ## 🍷 GitHub Stats 🍷
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=god-of-wine&show_icons=true&theme=jolly)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=god-of-wine&show_icons=true&theme=jolly) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=god-of-wine&layout=compact&theme=jolly)
 
 ## 🌟 Extra Activities 🌟
 - Competitor of OBI (Olimpiada Brasileira de Informatica) - Currently in the last phase.

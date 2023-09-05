@@ -1,6 +1,6 @@
 # 🏛🍇 Welcome 🍇🏛
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=800080)
+![header](https://capsule-render.vercel.app/api?type=waving&color=800080&section=header)
 
 Hello there! My name is Lucas Breda, and I'm truly passionate about the world of coding, software, and hardware technologies.🌿
 
@@ -30,3 +30,5 @@ Join me on this exhilarating journey through the ever-evolving landscape of tech
 
 ## 🧀 Social Midia 🧀
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/breda__l/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-breda-a3b3ba269/) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/2lry71nwykkw4e225o28t6xec?si=abf016acfb91444a) 
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=800080&section=footer)

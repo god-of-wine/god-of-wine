@@ -16,7 +16,7 @@ Join me on this exhilarating journey through the ever-evolving landscape of tech
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luVbreda&show_icons=true&title_color=70f5ff&bg_color=30295d&text_color=ff99f4&border_color=b00d0f) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luVbreda&title_color=70f5ff&bg_color=30295d&text_color=ff99f4&border_color=b00d0f&layout=compact)
 
 ## 🌟 Extra Activities 🌟
-- Competitor of OBI (Olimpiada Brasileira de Informatica) - Currently in the last phase.
+- Competitor of OBI (Olimpiada Brasileira de Informatica)
   - First Phase - 2nd place 🥈
   - Second Phase - 2nd place 🥈
   - Last Phase - Finalist 
